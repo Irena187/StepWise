@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace StepWise.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class StepWiseDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public StepWiseDbContext(DbContextOptions<StepWiseDbContext> options)
             : base(options)
         {
         }
