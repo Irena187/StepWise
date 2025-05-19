@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepWise.Data", "StepWise.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepWise.Services", "StepWise.Services\StepWise.Services.csproj", "{3591AEC0-5EDD-431C-9F75-87A4A893139F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepWise.Common", "StepWise.Common\StepWise.Common.csproj", "{9FF15AA0-AA23-4D45-92C3-83EA7B17A222}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3591AEC0-5EDD-431C-9F75-87A4A893139F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3591AEC0-5EDD-431C-9F75-87A4A893139F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3591AEC0-5EDD-431C-9F75-87A4A893139F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF15AA0-AA23-4D45-92C3-83EA7B17A222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF15AA0-AA23-4D45-92C3-83EA7B17A222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF15AA0-AA23-4D45-92C3-83EA7B17A222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF15AA0-AA23-4D45-92C3-83EA7B17A222}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
